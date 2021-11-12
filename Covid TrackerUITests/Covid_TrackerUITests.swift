@@ -2,7 +2,7 @@
 //  Covid_TrackerUITests.swift
 //  Covid TrackerUITests
 //
-//  Created by Sahil 2021 on 07/11/21.
+//  Created by Sahil Kumar Bansal on 07/11/21.
 //
 
 import XCTest
